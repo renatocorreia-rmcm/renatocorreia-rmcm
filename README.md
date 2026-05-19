@@ -1,18 +1,11 @@
-👾  👾  👾  👾  👾  👾  👾  👾
-
-👾  👾  👾  👾  👾  👾  👾  👾
-
-👾  👾  👾  👾  👾  👾  👾  👾
-
-Here's a preview of some of my projects:
-
-See each detailed descripition in his repo.
+👾 Here's a preview of some of my projects:
 
 |||
 |---|---|
 |![Desmos Fluid Illusion Demo](https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif) <br> [Desmos Fluid Illusion](https://github.com/renatocorreia-rmcm/desmos-fluid-illusion)| ![Parametric Polynomial Interpolation Demo](https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif) <br> [Parametric Polynomial Interpolation](https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation) |
 |||
 
+See each detailed descripition in his repo.
 
 <!-- PROJECT PREVIEW TEMPLATE - replace each {TAG}
 ![ {PROJECT-NAME} Demo](https://raw.githubusercontent.com/renatocorreia-rmcm/{REPO}/main/assets/demo.gif) <br> [{REPOSITORY-NAME}]([REPOSITORY-LINK])
