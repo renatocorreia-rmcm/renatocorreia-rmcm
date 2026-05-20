@@ -1,4 +1,4 @@
-👾 Here's a preview of some of my projects:
+👾💬Here's a preview of some of my projects:
 
 |||
 |---|---|
