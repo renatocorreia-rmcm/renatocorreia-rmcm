@@ -7,6 +7,8 @@
 
 See each detailed descripition in his repo.
 
+<!-- use ezgif.com for the gifs. make sure to use resolution `original(Up to 1280px)`-->
+
 <!-- PROJECT PREVIEW TEMPLATE - replace each {TAG}
 ![ {PROJECT-NAME} Demo](https://raw.githubusercontent.com/renatocorreia-rmcm/{REPO}/main/assets/demo.gif) <br> [{REPOSITORY-NAME}]([REPOSITORY-LINK])
  -->
