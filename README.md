@@ -1,5 +1,3 @@
-![profile_views](https://komarev.com/ghpvc/?username=renatocorreia-rmcm)
-
 👾💬Im an Undergraduate Computer Scientist (5/9) who likes to solve problems by connecting the algebraic and geometrical world. That's why my main study areas are **Applied Linear Algebra**, **Computer Graphics** and **Machine Learning**, and I aim to merge all them deepening myself into **Computer Vision**.
 
 Here's a preview of my favorite projects. You can find detailed descripitions in each repository.
@@ -20,6 +18,9 @@ Here's a preview of my favorite projects. You can find detailed descripitions in
     </tr>
   </table>
 </div>
+
+![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=plastic)
+
 
 <!-- use ezgif.com for the gifs. make sure to use resolution `original(Up to 1280px)`-->
 
