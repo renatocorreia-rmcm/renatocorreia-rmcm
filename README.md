@@ -19,7 +19,8 @@ Here's a preview of my favorite projects. You can find detailed descripitions in
   </table>
 </div>
 
-![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=plastic)
+<!-- <a href="https://github.com/renatocorreia-rmcm"><img src="https://img.shields.io/github/followers/renatocorreia-rmcm.svg?label=followers&style=pixel"></a> -->
+![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=pixel)
 
 
 <!-- use ezgif.com for the gifs. make sure to use resolution `original(Up to 1280px)`-->
