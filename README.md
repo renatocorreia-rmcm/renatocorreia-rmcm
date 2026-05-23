@@ -1,11 +1,23 @@
-👾💬Here's a preview of some of my projects:
+👾💬Im an Undergraduate Computer Scientist (5/9) who likes to solve problems by connecting the algebraic and geometrical world. That's why my main study areas are **Applied Linear Algebra**, **Computer Graphics** and **Machine Learning**, and I aim to merge all them deepening myself into **Computer Vision**.
 
-|||
-|---|---|
-|![Desmos Fluid Illusion Demo](https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif) <br> [Desmos Fluid Illusion](https://github.com/renatocorreia-rmcm/desmos-fluid-illusion)| ![Parametric Polynomial Interpolation Demo](https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif) <br> [Parametric Polynomial Interpolation](https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation) |
-|||
+Here's a preview of my favorite projects. You can find detailed descripitions in each repository.
 
-See each detailed descripition in his repo.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif" alt="Desmos Fluid Illusion Demo" width="100%"/>
+        <br />
+        <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion"><b>Desmos Fluid Illusion</b></a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif" alt="Parametric Polynomial Interpolation Demo" width="100%"/>
+        <br />
+        <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation"><b>Parametric Polynomial Interpolation</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- use ezgif.com for the gifs. make sure to use resolution `original(Up to 1280px)`-->
 
