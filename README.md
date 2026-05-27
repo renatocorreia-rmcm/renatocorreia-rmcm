@@ -7,33 +7,175 @@ Here's a preview of my favorite projects. You can find detailed descripitions in
   
 -->
 
-<!-- when have more projects, replace md table with html columsn, ignore row alignment and display content as trully multicol, so images overlap giving an funny MURAL APPEARANCE
-<table>
-  <tr>
-    <td><b>Left Column</b><br>Content here.</td>
-    <td><b>Right Column</b><br>Content here.</td>
-  </tr>
-</table>
+
+
+
+<!--
+===============================================================================
+OUTER TABLE
+===============================================================================
+
+This table defines the GLOBAL 2-column layout.
+
+Structure:
+┌───────────────────────┬───────────────────────┐
+│ LEFT COLUMN           │ RIGHT COLUMN          │
+│ (stack of projects)   │ (stack of projects)   │
+└───────────────────────┴───────────────────────┘
+
+Each column contains its OWN independent nested table.
+This makes the layout scalable and easier to maintain.
+===============================================================================
 -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif" alt="Desmos Fluid Illusion Demo" width="100%"/>
-        <br />
-        <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion"><b>Desmos Fluid Illusion</b></a>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif" alt="Parametric Polynomial Interpolation Demo" width="100%"/>
-        <!--<img src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif" alt="mu comparisson" width="100%"/> -->
-        <br />
-        <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation"><b>Parametric Polynomial Interpolation</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<table>
+  <tr>
+    <!-- ================================================================== -->
+    <!-- LEFT COLUMN                                                        -->
+    <!-- Position: column 1 of outer table                                  -->
+    <!-- Width: 50%                                                         -->
+    <!-- valign="top" keeps content aligned to top                          -->
+    <!-- ================================================================== -->
+    <td width="50%" valign="top">
+      <!-- ================================================================ -->
+      <!-- LEFT INNER TABLE                                                 -->
+      <!-- This table controls ONLY the left vertical stack                 -->
+      <!-- ================================================================ -->
+      <table>
+        <!-- ============================================================= -->
+        <!-- LEFT CELL 1                                                   -->
+        <!-- Top-left project                                              -->
+        <!-- ============================================================= -->
+        <tr>
+          <td align="start">
+            <!-- Project title -->
+            <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion">
+              <b>Desmos Fluid Illusion</b>
+            </a>
+            <!-- Project preview -->
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif"
+              alt="Desmos Fluid Illusion Demo"
+              width="100%"
+            />
+          </td>
+        </tr>
+        <!-- ============================================================= -->
+        <!-- LEFT CELL 2                                                   -->
+        <!-- Middle-left project                                           -->
+        <!-- ============================================================= -->
+        <tr>
+          <td align="center">
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/project-2/main/assets/demo.gif"
+              alt="Project 2 Demo"
+              width="100%"
+            />
+            <br/>
+            <a href="https://github.com/renatocorreia-rmcm/project-2">
+              <b>Project 2</b>
+            </a>
+          </td>
+        </tr>
+        <!-- ============================================================= -->
+        <!-- LEFT CELL 3                                                   -->
+        <!-- Bottom-left project                                           -->
+        <!-- ============================================================= -->
+        <tr>
+          <td align="center">
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/project-3/main/assets/demo.gif"
+              alt="Project 3 Demo"
+              width="100%"
+            />
+            <br/>
+            <a href="https://github.com/renatocorreia-rmcm/project-3">
+              <b>Project 3</b>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- ================================================================== -->
+    <!-- RIGHT COLUMN                                                       -->
+    <!-- Position: column 2 of outer table                                  -->
+    <!-- Width: 50%                                                         -->
+    <!-- ================================================================== -->
+    <td width="50%" valign="top">
+      <!-- ================================================================ -->
+      <!-- RIGHT INNER TABLE                                                -->
+      <!-- Controls the right vertical stack                                -->
+      <!-- ================================================================ -->
+      <table>
+        <!-- ============================================================= -->
+        <!-- RIGHT CELL 1 (TALL CELL)                                      -->
+        <!-- Main featured project                                         -->
+        <!-- rowspan="2" makes this project occupy the height of           -->
+        <!-- TWO logical rows, creating the asymmetrical layout            -->
+        <!-- ============================================================= -->
+        <tr>
+          <td rowspan="2" align="center">
+            <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation">
+              <b>Parametric Polynomial Interpolation</b>
+            </a>
+            <!-- Main preview gif -->
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
+              alt="Parametric Polynomial Interpolation Demo"
+              width="100%"
+            />
+            <!-- Extra preview gif -->
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif"
+              alt="Parametric Polynomial Interpolation Demo"
+              width="100%"
+            />
+          </td>
+        </tr>
+        <!-- ============================================================= -->
+        <!-- SPACER ROW                                                     -->
+        <!-- Required because the previous cell spans 2 rows               -->
+        <!-- Without this row, table structure breaks                      -->
+        <!-- ============================================================= -->
+        <tr></tr>
+        <!-- ============================================================= -->
+        <!-- RIGHT CELL 2                                                  -->
+        <!-- Middle-right project                                          -->
+        <!-- ============================================================= -->
+        <tr>
+          <td align="center">
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/project-4/main/assets/demo.gif"
+              alt="Project 4 Demo"
+              width="100%"
+            />
+            <br/>
+            <a href="https://github.com/renatocorreia-rmcm/project-4">
+              <b>Project 4</b>
+            </a>
+          </td>
+        </tr>
+        <!-- ============================================================= -->
+        <!-- RIGHT CELL 3                                                  -->
+        <!-- Bottom-right project                                          -->
+        <!-- ============================================================= -->
+        <tr>
+          <td align="center">
+            <img
+              src="https://raw.githubusercontent.com/renatocorreia-rmcm/project-5/main/assets/demo.gif"
+              alt="Project 5 Demo"
+              width="100%"
+            />
+            <br/>
+            <a href="https://github.com/renatocorreia-rmcm/project-5">
+              <b>Project 5</b>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <!-- <a href="https://github.com/renatocorreia-rmcm"><img src="https://img.shields.io/github/followers/renatocorreia-rmcm.svg?label=followers&style=pixel"></a> -->
 ![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=pixel)
