@@ -2,6 +2,11 @@
 
 Here's a preview of my favorite projects. You can find detailed descripitions in each repository.
 
+<!-- future ideas stack
+  svd image compression
+  
+-->
+
 <!-- when have more projects, replace md table with html columsn, ignore row alignment and display content as trully multicol, so images overlap giving an funny MURAL APPEARANCE
 <table>
   <tr>
