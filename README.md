@@ -57,7 +57,7 @@ This makes the layout scalable and easier to maintain.
             <img
               src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif"
               alt="Desmos Fluid Illusion Demo"
-              width="100%"
+              width="400"
             />
           </td>
         </tr>
@@ -100,12 +100,12 @@ This makes the layout scalable and easier to maintain.
             <img
               src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
               alt="Parametric Polynomial Interpolation Demo"
-              width="100%"
+              width="400"
             />
             <img
               src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif"
               alt="Parametric Polynomial Interpolation Demo"
-              width="100%"
+              width="400"
             />
           </td>
         </tr>
