@@ -27,6 +27,13 @@ Man... how i love a colorfull and well looped gif...
 If you liked this idea, feel free to use it on your own profile. 
 Consideer mentioning me in a hidden comment as the original creator :D
 -->
+<!--
+<img width="1920" height="1440" alt="Experiment_3x3_2_0 0500_page-0001" src="https://github.com/user-attachments/assets/d48cc8e0-31bb-4515-af4d-ac7ef6798a1e" />
+<img width="1920" height="1440" alt="ezgif com-animated-gif-maker (5)" src="https://github.com/user-attachments/assets/61f65f48-3381-44e2-bc59-923097b60bfe" />
+<img width="1920" height="1440" alt="ezgif com-animated-gif-maker (2)" src="https://github.com/user-attachments/assets/b8a03ad1-dc33-4392-ac10-6f978c80c136" />
+<img width="1920" height="1440" alt="ezgif com-animated-gif-maker (3)" src="https://github.com/user-attachments/assets/b1d80003-2cf8-4c2f-afba-ca5fa034dce1" />
+-->
+
 
 
 <!-- THE MAGAZINE PAGE -->
@@ -40,25 +47,25 @@ Consideer mentioning me in a hidden comment as the original creator :D
   <a href="https://github.com/renatocorreia-rmcm/vfkm-2_0.git"> Vector Field K-Means </a>
   <br>
   <img
-    src=""
+    src="https://github.com/user-attachments/assets/d48cc8e0-31bb-4515-af4d-ac7ef6798a1e"
     alt="dataset"
-    width="50%"
+    width="49%"
   />  
   <img
-    src=""
+    src="https://github.com/user-attachments/assets/61f65f48-3381-44e2-bc59-923097b60bfe"
     alt="dataset stats"
-    width="50%"
+    width="49%"
   />  
   <br>
   <img
-    src=""
+    src="https://github.com/user-attachments/assets/b8a03ad1-dc33-4392-ac10-6f978c80c136"
     alt="Clusters"
-    width="50%"
+    width="49%"
   />
     <img
-    src=""
+    src="https://github.com/user-attachments/assets/b1d80003-2cf8-4c2f-afba-ca5fa034dce1"
     alt="Clusters stats"
-    width="50%"
+    width="49%"
   />
   <br>
 
