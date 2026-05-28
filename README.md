@@ -3,137 +3,73 @@
 Here's a preview of my favorite projects. You can find detailed descripitions in each repository.
 
 
-<!-- HEY THERE !
-looks like you got curious about how my layout works. Here it is:
+<!-- HEY THERE!
 
-In order to reach this asymmetrical grid, I used a nested table structure.
+Looks like you got curious on how my layout works. 
+I like to call it 'The Magazine Page'.
+In order to reach it, I "hacked" MD's tables structure.
+
 Here's the breakdown:
-  Each column has its own inner table, allowing for flexible content arrangement. 
+  It consists on a single table with just 1 row and 2 columns.
+  Each column has valign="top", giving the stack structure, 
+  and width="50%", giving the 2-column layout.
+  align="center" affects basically the tittles, since images are width="100%".
 
-For the GIFs, i used ezgif.com. Its a very powerfull I highly recommended.
+For the GIFs, i used ezgif.com. Its a very powerfull tool I highly recommended.
 
+
+If you liked this idea, feel free to use it on your own profile. 
+Consideer mentioning me in a hidden comment as the original creator :D
 -->
 
 
-<!--
-===============================================================================
-OUTER TABLE
-===============================================================================
-
-This table defines the GLOBAL 2-column layout.
-
-Structure:
-┌───────────────────────┬───────────────────────┐
-│ LEFT COLUMN           │ RIGHT COLUMN          │
-│ (stack of projects)   │ (stack of projects)   │
-└───────────────────────┴───────────────────────┘
-
-Each column contains its OWN independent nested table.
-This makes the layout scalable and easier to maintain.
-===============================================================================
--->
-
+<!-- THE MAGAZINE PAGE -->
 <table>
-  <tr>
-    <!-- ================================================================== -->
-    <!-- LEFT COLUMN                                                        -->
-    <!-- ================================================================== -->
-    <td width="50%" valign="top">
-      <!-- ================================================================ -->
-      <!-- LEFT INNER TABLE                                                 -->
-      <!-- Controls the left vertical stack                                 -->
-      <!-- ================================================================ -->
-      <table>
-        <!-- ============================================================= -->
-        <!-- DESMOS FLUID ILLUSION                                         -->
-        <!-- ============================================================= -->
-        <tr>
-          <td align="center">
-            <!-- Project title -->
-            <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion">
-              <b>Desmos Fluid Illusion</b>
-            </a>
-            <br>
-            <!-- Project preview -->
-            <img
-              src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif"
-              alt="Desmos Fluid Illusion Demo"
-              width="400"
-            />
-          </td>
-        </tr>
-        <!-- ============================================================= -->
-        <!-- VECTOR FIELD K-MEANS                                          -->
-        <!-- ============================================================= -->
-        <tr>
-          <td align="center">
-            <!-- Project title -->
-            <a href="https://github.com/renatocorreia-rmcm/vfkm-2_0">
-              <b>Vector Field K-Means</b>
-            </a>
-            <!-- Project preview -->
-            <!--
-            <img
-              src=""
-              alt="Vector Field K-Means Demo"
-              width="100%"
-            />
-            -->
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- ================================================================== -->
-    <!-- RIGHT COLUMN                                                       -->
-    <!-- ================================================================== -->
-    <td width="50%" valign="top">
-      <!-- ================================================================ -->
-      <!-- RIGHT INNER TABLE                                                -->
-      <!-- Controls the right vertical stack                                -->
-      <!-- ================================================================ -->
-      <table>
-        <tr>
-          <td align="center">
-          <!-- Project title -->
-            <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation">
-              <b>Parametric Polynomial Interpolation</b>
-            </a>
-            <br>
-            <img
-              src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
-              alt="Parametric Polynomial Interpolation Demo"
-              width="400"
-            />
-            <br>
-            <img
-              src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif"
-              alt="Parametric Polynomial Interpolation Demo"
-              width="400"
-            />
-          </td>
-        </tr>
-        <!-- ============================================================= -->
-        <!-- IMAGE DEGRADATION                                             -->
-        <!-- ============================================================= -->
-        <tr>
-          <td align="center">
-            <a href="https://github.com/renatocorreia-rmcm/project-4">
-              <b>Image Degradation</b>
-            </a>
-            <!--
-            <img
-              src=""
-              alt="Image Degradation Demo"
-              width="100%"
-            />
-            -->
-            <br/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+
+<!-- LEFT COLUMN-->
+<td valign="top" width="50%" align="center">
+
+  <!-- VECTOR FIELD K-MEANS -->
+
+
+  <!-- DESMOS FLUID ILLUSION -->
+  <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion"> Desmos Fluid Illusion </a>
+  <br>
+  <img
+    src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif"
+    alt="Desmos Fluid Illusion Demo"
+    width="100%"
+  />
+  <br>
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td valign="top" width="50%" align="center">
+
+  <!-- PARAMETRIC POLYNOMIAL INTERPOLATION -->
+  <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation"> Parametric Polynomial Interpolation </a>
+  <br>
+  <img
+    src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
+    alt="Parametric Polynomial Interpolation Demo"
+    width="400"
+  />
+  <br>
+  <img
+    src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif"
+    alt="Parametric Polynomial Interpolation Demo"
+    width="400"
+  />
+  <br>
+
+</td>
+
+</tr>
 </table>
+
+
 
 <!-- <a href="https://github.com/renatocorreia-rmcm"><img src="https://img.shields.io/github/followers/renatocorreia-rmcm.svg?label=followers&style=pixel"></a> -->
 ![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=pixel)
