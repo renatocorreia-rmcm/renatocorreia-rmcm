@@ -15,7 +15,13 @@ Here's the breakdown:
   and width="50%", giving the 2-column layout.
   align="center" affects basically the tittles, since images are width="100%".
 
+I would like to remove the table edges but this is a battle I lost
+in my war against GitHub's MarkDown renderer. 
+I can say it definetely hates multicolumn layouts.
+
 For the GIFs, i used ezgif.com. Its a very powerfull tool I highly recommended.
+I always use max resolution (up to 1280px) and delay of 100*N between images.
+Man... how i love a colorfull and well looped gif...
 
 
 If you liked this idea, feel free to use it on your own profile. 
@@ -31,7 +37,30 @@ Consideer mentioning me in a hidden comment as the original creator :D
 <td valign="top" width="50%" align="center">
 
   <!-- VECTOR FIELD K-MEANS -->
-
+  <a href="https://github.com/renatocorreia-rmcm/vfkm-2_0.git"> Vector Field K-Means </a>
+  <br>
+  <img
+    src=""
+    alt="dataset"
+    width="50%"
+  />  
+  <img
+    src=""
+    alt="dataset stats"
+    width="50%"
+  />  
+  <br>
+  <img
+    src=""
+    alt="Clusters"
+    width="50%"
+  />
+    <img
+    src=""
+    alt="Clusters stats"
+    width="50%"
+  />
+  <br>
 
   <!-- DESMOS FLUID ILLUSION -->
   <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion"> Desmos Fluid Illusion </a>
