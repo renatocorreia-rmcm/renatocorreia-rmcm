@@ -53,6 +53,7 @@ This makes the layout scalable and easier to maintain.
             <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion">
               <b>Desmos Fluid Illusion</b>
             </a>
+            <br>
             <!-- Project preview -->
             <img
               src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif"
@@ -97,11 +98,13 @@ This makes the layout scalable and easier to maintain.
             <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation">
               <b>Parametric Polynomial Interpolation</b>
             </a>
+            <br>
             <img
               src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
               alt="Parametric Polynomial Interpolation Demo"
               width="400"
             />
+            <br>
             <img
               src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif"
               alt="Parametric Polynomial Interpolation Demo"
