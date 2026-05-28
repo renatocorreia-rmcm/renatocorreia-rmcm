@@ -50,13 +50,13 @@ Consideer mentioning me in a hidden comment as the original creator :D
     src="https://github.com/user-attachments/assets/d48cc8e0-31bb-4515-af4d-ac7ef6798a1e"
     alt="dataset"
     width="49%"
-  />  
+  />
   <img
     src="https://github.com/user-attachments/assets/61f65f48-3381-44e2-bc59-923097b60bfe"
     alt="dataset stats"
     width="49%"
-  />  
-  <br>
+  />
+  <br> 
   <img
     src="https://github.com/user-attachments/assets/b8a03ad1-dc33-4392-ac10-6f978c80c136"
     alt="Clusters"
@@ -67,8 +67,6 @@ Consideer mentioning me in a hidden comment as the original creator :D
     alt="Clusters stats"
     width="49%"
   />
-  <br>
-
   <!-- DESMOS FLUID ILLUSION -->
   <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion"> Desmos Fluid Illusion </a>
   <br>
