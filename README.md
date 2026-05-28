@@ -1,6 +1,6 @@
-👾💬Im an Undergraduate Computer Scientist (5/9) who likes to solve problems by connecting the algebraic and geometrical world. That's why my main study areas are **Applied Linear Algebra**, **Computer Graphics** and **Machine Learning**, and I aim to merge all them deepening myself into **Computer Vision**.
+👾💬I'm an Undergraduate Computer Scientist (5/9) who likes to solve problems by connecting the algebraic and geometrical world. That's why my main study areas are **Applied Linear Algebra**, **Computer Graphics** and **Machine Learning**, and I aim to merge all of them deepening myself into **Computer Vision**.
 
-Here's a preview of my favorite projects. You can find detailed descripitions in each repository.
+Here's a preview of my favorite projects. You can find detailed descriptions in each repository.
 
 
 <!-- HEY THERE!
@@ -15,9 +15,8 @@ Here's the breakdown:
   and width="50%", giving the 2-column layout.
   align="center" affects basically the tittles, since images are width="100%".
 
-I would like to remove the table edges but this is a battle I lost
-in my war against GitHub's MarkDown renderer. 
-I can say it definetely hates multicolumn layouts.
+I would like to remove the table edges but this is a battle I lost in my war against GitHub's MarkDown renderer. 
+I can say it definetely hates multicolumn layouts and relative image sizes. Hope they fix it one day.
 
 For the GIFs, i used ezgif.com. Its a very powerfull tool I highly recommended.
 I always use max resolution (up to 1280px) and delay of 100*N between images.
@@ -25,16 +24,8 @@ Man... how i love a colorfull and well looped gif...
 
 
 If you liked this idea, feel free to use it on your own profile. 
-Consideer mentioning me in a hidden comment as the original creator :D
+Consider mentioning me as github.com/renatocorreia-rmcm in a hidden comment as the original creator :D live and let live
 -->
-
-<!--
-<img width="1920" height="1440" alt="Experiment_3x3_2_0 0500_page-0001" src="https://github.com/user-attachments/assets/d48cc8e0-31bb-4515-af4d-ac7ef6798a1e" />
-<img width="1920" height="1440" alt="ezgif com-animated-gif-maker (5)" src="https://github.com/user-attachments/assets/61f65f48-3381-44e2-bc59-923097b60bfe" />
-<img width="1920" height="1440" alt="ezgif com-animated-gif-maker (2)" src="https://github.com/user-attachments/assets/b8a03ad1-dc33-4392-ac10-6f978c80c136" />
-<img width="1920" height="1440" alt="ezgif com-animated-gif-maker (3)" src="https://github.com/user-attachments/assets/b1d80003-2cf8-4c2f-afba-ca5fa034dce1" />
--->
-
 
 
 <!-- THE MAGAZINE PAGE -->
@@ -89,13 +80,13 @@ Consideer mentioning me in a hidden comment as the original creator :D
   <img
     src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
     alt="Parametric Polynomial Interpolation Demo"
-    width="400"
+    width="100%"
   />
   <br>
   <img
     src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/mu_parametrization.gif"
     alt="Parametric Polynomial Interpolation Demo"
-    width="400"
+    width="100%"
   />
   <br>
 
@@ -105,10 +96,8 @@ Consideer mentioning me in a hidden comment as the original creator :D
 </table>
 
 
-
-<!-- <a href="https://github.com/renatocorreia-rmcm"><img src="https://img.shields.io/github/followers/renatocorreia-rmcm.svg?label=followers&style=pixel"></a> -->
-![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=pixel)
-
+<a href="https://github.com/renatocorreia-rmcm"><img src="https://img.shields.io/github/followers/renatocorreia-rmcm.svg?label=followers&style=plastic&color=blueviolet"></a>
+![](https://komarev.com/ghpvc/?username=renatocorreia-rmcm&color=blueviolet&style=plastic)
 
 <!-- FUTURE IDEAS -->
 <!--
