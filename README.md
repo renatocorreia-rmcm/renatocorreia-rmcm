@@ -71,11 +71,13 @@ This makes the layout scalable and easier to maintain.
               <b>Vector Field K-Means</b>
             </a>
             <!-- Project preview -->
+            <!--
             <img
               src=""
               alt="Vector Field K-Means Demo"
               width="100%"
             />
+            -->
           </td>
         </tr>
       </table>
@@ -115,11 +117,13 @@ This makes the layout scalable and easier to maintain.
             <a href="https://github.com/renatocorreia-rmcm/project-4">
               <b>Image Degradation</b>
             </a>
+            <!--
             <img
               src=""
               alt="Image Degradation Demo"
               width="100%"
             />
+            -->
             <br/>
           </td>
         </tr>
