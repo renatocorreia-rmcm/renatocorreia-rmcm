@@ -27,6 +27,7 @@ Man... how i love a colorfull and well looped gif...
 If you liked this idea, feel free to use it on your own profile. 
 Consideer mentioning me in a hidden comment as the original creator :D
 -->
+
 <!--
 <img width="1920" height="1440" alt="Experiment_3x3_2_0 0500_page-0001" src="https://github.com/user-attachments/assets/d48cc8e0-31bb-4515-af4d-ac7ef6798a1e" />
 <img width="1920" height="1440" alt="ezgif com-animated-gif-maker (5)" src="https://github.com/user-attachments/assets/61f65f48-3381-44e2-bc59-923097b60bfe" />
@@ -44,7 +45,7 @@ Consideer mentioning me in a hidden comment as the original creator :D
 <td valign="top" width="50%" align="center">
 
   <!-- VECTOR FIELD K-MEANS -->
-  <a href="https://github.com/renatocorreia-rmcm/vfkm-2_0.git"> Vector Field K-Means </a>
+  [***Vector Field K-Means***](https://github.com/renatocorreia-rmcm/vfkm-2_0.git)
   <br>
   <img
     src="https://github.com/user-attachments/assets/d48cc8e0-31bb-4515-af4d-ac7ef6798a1e"
@@ -68,7 +69,7 @@ Consideer mentioning me in a hidden comment as the original creator :D
     width="49%"
   />
   <!-- DESMOS FLUID ILLUSION -->
-  <a href="https://github.com/renatocorreia-rmcm/desmos-fluid-illusion"> Desmos Fluid Illusion </a>
+  [***Desmos Fluid Illusion***](https://github.com/renatocorreia-rmcm/desmos-fluid-illusion)
   <br>
   <img
     src="https://raw.githubusercontent.com/renatocorreia-rmcm/desmos-fluid-illusion/main/assets/demo.gif"
@@ -83,7 +84,7 @@ Consideer mentioning me in a hidden comment as the original creator :D
 <td valign="top" width="50%" align="center">
 
   <!-- PARAMETRIC POLYNOMIAL INTERPOLATION -->
-  <a href="https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation"> Parametric Polynomial Interpolation </a>
+  [***Parametric Polynomial Interpolation***](https://github.com/renatocorreia-rmcm/parametric-polynomial-interpolation)
   <br>
   <img
     src="https://raw.githubusercontent.com/renatocorreia-rmcm/parametric-polynomial-interpolation/main/assets/demo.gif"
