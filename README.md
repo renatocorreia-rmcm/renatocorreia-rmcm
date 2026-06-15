@@ -6,7 +6,7 @@ Here's a preview of my favorite projects. You can find detailed descriptions in 
 <!-- HEY THERE!
 
 Looks like you got curious on how my layout works. 
-I like to call it 'The Magazine Page'.
+I like to call it 'THE MAGAZINE PAGE'.
 In order to reach it, I "hacked" MD's tables structure.
 
 Here's the breakdown:
@@ -68,6 +68,14 @@ Consider mentioning me as github.com/renatocorreia-rmcm in a hidden comment as t
     width="100%"
   />
   <br>
+  <!-- BÉZIER FITTING -->
+  [***Bezier Fitting***](https://github.com/renatocorreia-rmcm/bezier-fitting)
+  <br>
+  <img
+    src="https://raw.githubusercontent.com/renatocorreia-rmcm/bezier-fitting/main/output/Experiment.svg"
+    alt="Bezier Fitting Demo"
+    width="100%"
+  />
 
 </td>
 
