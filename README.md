@@ -72,7 +72,7 @@ Consider mentioning me as github.com/renatocorreia-rmcm in a hidden comment as t
   [***Bezier Fitting***](https://github.com/renatocorreia-rmcm/bezier-fitting)
   <br>
   <img
-    src="https://raw.githubusercontent.com/renatocorreia-rmcm/bezier-fitting/main/output/Experiment.svg"
+    src="https://raw.githubusercontent.com/renatocorreia-rmcm/bezier-fitting/main/assets/demo.gif"
     alt="Bezier Fitting Demo"
     width="100%"
   />
